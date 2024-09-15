@@ -39,6 +39,9 @@ Tip percent: 15
 $61.69
 ```
 
+![image](https://github.com/user-attachments/assets/908904d4-f80b-4554-b8da-71fa9bf3e4d0)
+*Your portion of the bill!*
+
 ## Contributing
 1. Fork the repository.
 2. Create a new branch:
